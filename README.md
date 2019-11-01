@@ -1,5 +1,3 @@
-# NCTU School of Law Workshops
-# 法律工程師系列演講: 律師的新工具與思維
 Slides, links, and tutorials
 
 Links to slides:
