@@ -1,5 +1,3 @@
-Slides, links, and tutorials
-
 Links to slides:
 * [律師x人工智慧](x.html)
 * [律師x區塊鍊和智能合約](x.html)
