@@ -1,3 +1,7 @@
+<p align="center">
+<img align="center" src="assets/qrcode.svg">
+</p>
+
 Links to slides:
 * [律師x人工智慧](https://markshope.github.io/nctu-workshop/test/index.html)
 * [律師x區塊鍊和智能合約](x.html)
@@ -6,7 +10,3 @@ Links to slides:
 
 Links to tutorials:
 * [Blockchain Demo](https://markshope.github.io/blockchain-demo/)
-
-<p align="center">
-<img align="center" src="assets/qrcode.svg">
-</p>
