@@ -6,3 +6,7 @@ Links to slides:
 
 Links to tutorials:
 * [Blockchain Demo](https://markshope.github.io/blockchain-demo/)
+
+<p align="center">
+<img align="center" src="assets/qrcode.svg">
+</p>
