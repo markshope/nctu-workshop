@@ -11,6 +11,7 @@ Links to slides:
 Links to tutorials:
 * [Universal Sentence Encoder Colab Notebook](https://colab.research.google.com/github/markshope/AI-for-Lawyers-Beginner-Course/blob/master/AI_for_Lawyers_Contract_Clause_Similarity_Exercise.ipynb)
 * [Multilingual Universal Sentence Encoder Colab Notebook](https://colab.research.google.com/github/markshope/AI-for-Lawyers-Beginner-Course/blob/master/Cross_Lingual_Similarity_with_TF_Hub_Multilingual_Universal_Encoder.ipynb)
+* [Simple Blockchain with Timestamp](https://colab.research.google.com/github/markshope/Blockchain-for-Lawyers/blob/master/Blockchain_for_Lawyers_Simple_Blockchain_with_Timestamp.ipynb)
 * [Blockchain Demo](https://markshope.github.io/blockchain-demo/)
 * [Public/Private Keys & Signing Demo](https://markshope.github.io/public-private-key-demo/)
 * [Blockchain Bill of Lading Demo](https://markshope.github.io/bill-of-lading-demo/)
