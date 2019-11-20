@@ -4,7 +4,7 @@
 
 Links to slides:
 * [律師x人工智慧](https://drive.google.com/file/d/1S6oi1L2O5jyTOkHCotqHNiVtd7QwPokU/view?usp=sharing)
-* [律師x區塊鍊和智能合約](x.html)
+* [律師x區塊鍊和智能合約](https://drive.google.com/file/d/1gQJOEzExweIk1T-KilFajRLajVcDDUKv/view?usp=sharing)
 * [律師x大數據和機器學習](x.html)
 * [律師xFinTech/RegTech/LegalTech](x.html)
 
