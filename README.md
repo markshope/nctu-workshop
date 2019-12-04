@@ -5,7 +5,7 @@
 Links to slides:
 * [律師x人工智慧](https://drive.google.com/file/d/1S6oi1L2O5jyTOkHCotqHNiVtd7QwPokU/view?usp=sharing)
 * [律師x區塊鍊和智能合約](https://drive.google.com/file/d/1gQJOEzExweIk1T-KilFajRLajVcDDUKv/view?usp=sharing)
-* [律師x大數據和機器學習](x.html)
+* [律師x大數據和機器學習](https://drive.google.com/file/d/1nOl8U6WRooaCNVy5Pp2dRpV195x-QXlf/view?usp=sharing)
 * [律師xFinTech/RegTech/LegalTech](x.html)
 
 Links to tutorials:
@@ -16,3 +16,8 @@ Links to tutorials:
 * [Public/Private Keys & Signing Demo](https://markshope.github.io/public-private-key-demo/)
 * [Blockchain Bill of Lading Demo](https://markshope.github.io/bill-of-lading-demo/)
 * [Multisig Blockchain Bill of Lading Demo](https://markshope.github.io/multisig-bill-of-lading/)
+* [Topic Modeling Example 1](https://colab.research.google.com/drive/1CVAdNgcA6he2ApL0tgSiiurhx_ukGFxp)
+* [Topic Modeling Example 2](https://colab.research.google.com/drive/1GKyWm7iYcksMKf6d8JUy-GfoED2re21w)
+* [Stream Graph Example](https://colab.research.google.com/drive/1GKyWm7iYcksMKf6d8JUy-GfoED2re21w)
+* [Face Recognition from Webcam](x.html)
+* [Emotion Recognition from Webcam](x.html)
