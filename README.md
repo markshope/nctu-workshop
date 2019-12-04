@@ -18,6 +18,6 @@ Links to tutorials:
 * [Multisig Blockchain Bill of Lading Demo](https://markshope.github.io/multisig-bill-of-lading/)
 * [Topic Modeling Example 1](https://colab.research.google.com/drive/1CVAdNgcA6he2ApL0tgSiiurhx_ukGFxp)
 * [Topic Modeling Example 2](https://colab.research.google.com/drive/1GKyWm7iYcksMKf6d8JUy-GfoED2re21w)
-* [Stream Graph Example](https://colab.research.google.com/drive/1GKyWm7iYcksMKf6d8JUy-GfoED2re21w)
+* [Stream Graph Example](https://colab.research.google.com/drive/1GYK79ndWIK_JDOeUzYNaqz6fsgqVnUcA)
 * [Face Recognition from Webcam](x.html)
 * [Emotion Recognition from Webcam](x.html)
