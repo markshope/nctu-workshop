@@ -6,7 +6,7 @@ Links to slides:
 * [律師x人工智慧](https://drive.google.com/file/d/1S6oi1L2O5jyTOkHCotqHNiVtd7QwPokU/view?usp=sharing)
 * [律師x區塊鍊和智能合約](https://drive.google.com/file/d/1gQJOEzExweIk1T-KilFajRLajVcDDUKv/view?usp=sharing)
 * [律師x大數據和機器學習](https://drive.google.com/file/d/1nOl8U6WRooaCNVy5Pp2dRpV195x-QXlf/view?usp=sharing)
-* [律師xFinTech/RegTech/LegalTech](x.html)
+* [律師xFinTech/RegTech/LegalTech](https://drive.google.com/file/d/1shb2bpp1TIW3RDZZ_yBVR7umUiov7mHz/view?usp=sharing)
 
 Links to tutorials:
 * [Universal Sentence Encoder Colab Notebook](https://colab.research.google.com/github/markshope/AI-for-Lawyers-Beginner-Course/blob/master/AI_for_Lawyers_Contract_Clause_Similarity_Exercise.ipynb)
